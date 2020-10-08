@@ -1,0 +1,13 @@
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\bin\Debug\Generic_Approach.exe.config
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\bin\Debug\Generic_Approach.exe
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\bin\Debug\Generic_Approach.pdb
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.exe
+C:\Users\C#\Desktop\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.pdb
+H:\New project\Generic_Approach\Generic_Approach\bin\Debug\Generic_Approach.exe.config
+H:\New project\Generic_Approach\Generic_Approach\bin\Debug\Generic_Approach.exe
+H:\New project\Generic_Approach\Generic_Approach\bin\Debug\Generic_Approach.pdb
+H:\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.csproj.CoreCompileInputs.cache
+H:\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.exe
+H:\New project\Generic_Approach\Generic_Approach\obj\Debug\Generic_Approach.pdb

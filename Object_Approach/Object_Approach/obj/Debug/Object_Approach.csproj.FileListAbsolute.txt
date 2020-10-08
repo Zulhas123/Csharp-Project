@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\bin\Debug\Object_Approach.exe.config
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\bin\Debug\Object_Approach.exe
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\bin\Debug\Object_Approach.pdb
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\obj\Debug\Object_Approach.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\obj\Debug\Object_Approach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\obj\Debug\Object_Approach.exe
+C:\Users\PC\Desktop\New project\Object_Approach\Object_Approach\obj\Debug\Object_Approach.pdb
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\bin\Debug\Object_Approach.exe.config
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\bin\Debug\Object_Approach.exe
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\bin\Debug\Object_Approach.pdb
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\obj\Debug\Object_Approach.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\obj\Debug\Object_Approach.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\obj\Debug\Object_Approach.exe
+C:\Users\C#\Desktop\New project111\Object_Approach\Object_Approach\obj\Debug\Object_Approach.pdb
